@@ -1,3 +1,6 @@
 # GameUtils
-Мод на AFK-фарм с поеданием, также гамму, также отключение ненужных функций и много чего еще...
-[https://www.curseforge.com/minecraft/mc-mods/gameutils](Download)
+Simple Minecraft autofarm mod.
+
+[Download](https://www.curseforge.com/minecraft/mc-mods/gameutils)
+
+[Discord](https://discord.gg/kmzepGP9uz)
